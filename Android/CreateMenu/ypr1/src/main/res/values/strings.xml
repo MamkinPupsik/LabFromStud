@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ypr1</string>
+    <string name="action_1">Open</string>
+    <string name="action_2">Edit</string>
+    <string name="action_3">Save</string>
+    <string name="action_4">Help</string>
+    <string name="action_5">Exit</string>
+</resources>
