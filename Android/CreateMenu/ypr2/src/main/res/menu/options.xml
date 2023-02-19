@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/action_1"
+        android:title="Open"
+        android:icon="@drawable/open"
+        android:orderInCategory="0"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_2"
+        android:title="Edit"
+        android:icon="@drawable/edit"
+        android:orderInCategory="0"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_3"
+        android:title="Save"
+        android:icon="@drawable/save"
+        android:orderInCategory="0"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_4"
+        android:title="Help"
+        android:icon="@drawable/helpersicon"
+        android:orderInCategory="0"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_5"
+        android:title="Exit"
+        android:icon="@drawable/exiticon"
+        android:orderInCategory="0"
+        app:showAsAction="always"/>
+
+</menu>
