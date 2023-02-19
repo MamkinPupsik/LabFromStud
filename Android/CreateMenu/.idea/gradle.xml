@@ -12,8 +12,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/ypr1" />
+<<<<<<< HEAD
             <option value="$PROJECT_DIR$/ypr2_2" />
             <option value="$PROJECT_DIR$/ypr3" />
+=======
+            <option value="$PROJECT_DIR$/ypr2" />
+>>>>>>> d7c574ac2b18ce2c33a2d542d3ead3593d823f6c
           </set>
         </option>
       </GradleProjectSettings>
