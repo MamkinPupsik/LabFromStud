@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "CreateMenu"
 include ':app'
 include ':ypr1'
+include ':ypr3'
+include ':ypr2_2'
