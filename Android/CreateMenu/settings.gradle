@@ -21,3 +21,4 @@ include ':ypr2'
 
 include ':ypr4'
 include ':ypr5'
+include ':ypr6'
