@@ -16,3 +16,4 @@ rootProject.name = "UseObjectIntent"
 include ':app'
 include ':ypr1'
 include ':ypr2'
+include ':ypr3'
